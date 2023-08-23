@@ -26,26 +26,26 @@
 		<style>
 			.u-header {
 				background: #f2f2f2 !important;
-				border-top: 60px solid #86abff;
+				border-top: 60px solid #5b708f;
 			}
 			.u-palette-4-base {
-				background-color: #86abff;
+				background-color: #5b708f;
 			}
 
 			.u-grey-80 {
-				background-color: #6f6f6f;
+				background-color: #051428;
 			}
 
 			.d-schedule-cunsoltation button {
-				background: #86abff;
+				background: #5b708f;
 			}
 			
 			.u-text-palette-4-base {
-				color: #86abff !important;
+				color: #5b708f !important;
 			}
 
 			.u-text-palette-4-base .u-svg-link {
-				fill: #86abff;
+				fill: #5b708f;
 			}
 
 			a.u-align-center.u-border-4.u-border-white.u-btn.u-btn-round.u-button-style.u-custom-font.u-font-montserrat.u-none.u-radius-40.u-btn-1 {
@@ -54,7 +54,7 @@
 			}
 
 			ul.sub-menu li:hover {
-				background: #86abff;
+				background: #5b708f;
 			}
 
 			ul.sub-menu li:hover a {

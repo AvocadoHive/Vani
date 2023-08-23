@@ -6,16 +6,16 @@
 		<meta name="keywords" content="​You can reserve for yourself and your team working space by taking a subscription for any period and getting a discount for an additional week of coworking., ​What our customers say, ​Your success in the industry is our mission, ​What Is Going To Happen?, ​Ticket Pricing, $ 39.99, ​$ 59.99, ​$ 79.99">
 		<meta name="description" content="">
 		<title>Innovation | Selectium Law Group P. C.</title>
-		<link rel="stylesheet" href="/vani/assets/css/platform.css" media="screen">
-		<link rel="stylesheet" href="/vani/assets/css/base.css" media="screen">
-		<link rel="stylesheet" href="/vani/assets/css/paged.css" media="screen">
-		<link rel="stylesheet" href="/vani/assets/css/custom.css" media="screen">
-		<script class="u-script" type="text/javascript" src="/vani/assets/js/jquery-3.5.1.min.js" defer=""></script>
-		<script class="u-script" type="text/javascript" src="/vani/assets/js/platform.js" defer=""></script>
+		<link rel="stylesheet" href="/assets/css/platform.css" media="screen">
+		<link rel="stylesheet" href="/assets/css/base.css" media="screen">
+		<link rel="stylesheet" href="/assets/css/paged.css" media="screen">
+		<link rel="stylesheet" href="/assets/css/custom.css" media="screen">
+		<script class="u-script" type="text/javascript" src="/assets/js/jquery-3.5.1.min.js" defer=""></script>
+		<script class="u-script" type="text/javascript" src="/assets/js/platform.js" defer=""></script>
 		<meta name="referrer" content="origin">
 
-		<link rel="stylesheet" href="/vani/assets/slick/slick.css">
-		<link rel="stylesheet" href="/vani/assets/slick/slick-theme.css">
+		<link rel="stylesheet" href="/assets/slick/slick.css">
+		<link rel="stylesheet" href="/assets/slick/slick-theme.css">
 
 		<link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
 		<link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Ubuntu:300,300i,400,400i,500,500i,700,700i">
@@ -25,33 +25,33 @@
 
 		<style>
 			.u-palette-4-base {
-				background-color: #e87723;
+				background-color: #233853;
 			}
 
 			.u-grey-80 {
-				background-color: #fffae5;
-				color: #333;
+				background-color: #051428;
+				color: #fff;
 			}
 
 			.d-schedule-cunsoltation button {
-				background: #e87723;
+				background: #233853;
 			}
 			
 			.u-text-palette-4-base {
-				color: #e87723 !important;
+				color: #233853 !important;
 			}
 
 			.u-text-palette-4-base .u-svg-link {
-				fill: #e87723;
+				fill: #233853;
 			}
 
 			.u-grey-5 {
-				background-color: #fffae5;
+				background-color: #dfeeff;
 			}
 
 			.u-header {
-				background: #fffae5 !important;
-				border-top: 60px solid #e87723;
+				background: #dfeeff !important;
+				border-top: 60px solid #233853;
 			}
 
 			a.u-align-center.u-border-4.u-border-white.u-btn.u-btn-round.u-button-style.u-custom-font.u-font-montserrat.u-none.u-radius-40.u-btn-1 {
@@ -60,7 +60,7 @@
 			}
 
 			ul.sub-menu li:hover {
-				background: #e87723;
+				background: #233853;
 			}
 
 			ul.sub-menu li:hover a {
@@ -142,28 +142,28 @@
 				<div class="d-clients-list-inner">
 					<div class="slider demo">
 						<div class="d-feat-client">
-							<img src="/vani/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
 						</div>
 						<div class="d-feat-client">
-							<img src="/vani/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
 						</div>
 						<div class="d-feat-client">
-							<img src="/vani/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
 						</div>
 						<div class="d-feat-client">
-							<img src="/vani/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
 						</div>
 						<div class="d-feat-client">
-							<img src="/vani/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
 						</div>
 						<div class="d-feat-client">
-							<img src="/vani/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
 						</div>
 						<div class="d-feat-client">
-							<img src="/vani/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
 						</div>
 						<div class="d-feat-client">
-							<img src="/vani/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
 						</div>
 					</div>
 				</div>
@@ -383,7 +383,7 @@
 			<div class="inno-messages-inner">
 				<div class="inno-message-item">
 					<div class="d-inno-message-image">
-						<img src="/vani/assets/images/inno-unleashed.png" alt="">
+						<img src="/assets/images/inno-unleashed.png" alt="">
 					</div>
 					<div class="d-inno-message-desc">
 						<h4>Innovation Protected. Value Unleashed</h4>
@@ -397,7 +397,7 @@
 						<p>Innovation knows no boundaries, and neither should its protection. As your trusted legal partner, we are committed to navigating you through the complex world of IP law, leaving no stone unturned in securing your intellectual capital.</p>
 					</div>
 					<div class="d-inno-message-image">
-						<img src="/vani/assets/images/inno-protect.jpeg" alt="">
+						<img src="/assets/images/inno-protect.jpeg" alt="">
 					</div>
 				</div>
 			</div>
@@ -501,7 +501,7 @@
 		<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
 		<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 		<!-- <script src="https://code.jquery.com/jquery-3.7.0.min.js" crossorigin="anonymous"></script> -->
-		<script src="/vani/assets/slick/slick.js"></script>
+		<script src="/assets/slick/slick.js"></script>
 
 		<script>
 			(function($) {

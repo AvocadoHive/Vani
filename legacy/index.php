@@ -25,8 +25,8 @@
 
 		<style>
 			.u-palette-4-base {
-				background-color: #e8ff9b;
-				color: #6f6f6f;
+				background-color: #cdad7e;
+				color: #fff;
 			}
 
 			.u-grey-80 {
@@ -34,16 +34,16 @@
 			}
 
 			.d-schedule-cunsoltation button {
-				background: #e8ff9b;
-				color: #6f6f6f;
+				background: #cdad7e;
+				color: #fff;
 			}
 			
 			.u-text-palette-4-base {
-				color: #e8ff9b !important;
+				color: #cdad7e !important;
 			}
 
 			.u-text-palette-4-base .u-svg-link {
-				fill: #e8ff9b;
+				fill: #cdad7e;
 			}
 
 			.u-grey-5 {
@@ -52,7 +52,7 @@
 
 			.u-header {
 				background: #e4e4e4 !important;
-				border-top: 60px solid #e8ff9b;
+				border-top: 60px solid #cdad7e;
 			}
 
 			.u-section-2 .u-icon-1 i {
@@ -78,11 +78,11 @@
 				background: none;
 			}
 			.legacy-feat-person.u-grey-5 img {
-				filter: drop-shadow(0px 0px 11px #e8ff9b);
+				filter: drop-shadow(0px 0px 11px #cdad7e);
 			}
 
 			ul.sub-menu li:hover {
-				background: #e8ff9b;
+				background: #cdad7e;
 			}
 
 			ul.sub-menu li:hover a {

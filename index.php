@@ -9,6 +9,7 @@
 		<link rel="stylesheet" href="/assets/css/base.css" media="screen">
 		<link rel="stylesheet" href="/assets/css/paged.css" media="screen">
 		<link rel="stylesheet" href="/assets/css/custom.css" media="screen">
+		<link rel="stylesheet" href="/assets/css/responsive.css" media="screen">
 		<script class="u-script" type="text/javascript" src="/assets/js/jquery-3.5.1.min.js" defer=""></script>
 		<script class="u-script" type="text/javascript" src="/assets/js/platform.js" defer=""></script>
 		<meta name="referrer" content="origin">
@@ -24,12 +25,12 @@
 		
 		<style>
 			.u-palette-4-base {
-				background-color: #ffeb11;
-				color:#6f6f6f;
+				background-color: #0a1a34;
+				color: #c9ac81;
 			}
 
 			.u-grey-80 {
-				background-color: #6f6f6f;
+				background-color: #051428;
 			}
 
 			.d-schedule-cunsoltation button {
@@ -55,7 +56,7 @@
 			}
 
 			.u-header {
-				background: #6f6f6f;
+				background: #0a1a34;
 			}
 
 			.u-nav-container > .u-nav > .u-nav-item > .u-nav-link {
@@ -66,11 +67,11 @@
 			}
 
 			ul.sub-menu li:hover {
-				background: #ffeb11;
+				background: #0a1a34;
 			}
 
 			ul.sub-menu li:hover a {
-				color: #6f6f6f;
+				color: #fff;
 			}
 
 			.u-section-2 .u-icon-1 {
@@ -141,31 +142,111 @@
 			</div>
 		</section>
 
+		<section class="home-about">
+			<div class="home-about-inner">
+				<h4>Welcome to Selectium Law Group</h4>
+				<div class="sub-title">Where legal expertise and personalized care meet to form a client-centered approach to law.</div>
+				<p>At Selectium, we believe in the power of sound legal advice and its transformative role in safeguarding your ventures, creativity, and legacy. Our diverse expertise spans three crucial areas of law: Business and Startup Legal Services, Intellectual Property Law, and Estate Planning & Wealth Management. Serving a wide range of clients from visionary startups to established businesses, innovators, and families, we commit ourselves to protect your interests, foster your growth, and plan your future.</p>
+				<p>Through our specialized subdomains, we offer you access to a team of dedicated legal professionals who not only understand the intricacies of their respective fields but also the nuances of your unique needs.</p>
+			</div>
+		</section>
+
 		<section class="three-icon-part">
 			<div class="d-three-icon-inner">
 				<div class="d-icon-base d-icon-one">
 					<a href="/innovation">
-						<div class="d-icon-segment" style="background: #e87723;"><i class="fa-regular fa-lightbulb"></i></div>
+						<div class="d-icon-segment"><i class="fa-regular fa-lightbulb"></i></div>
 						<div class="d-text-name">innovation</div>
 					</a>
 				</div>
 				<div class="d-icon-base d-icon-two">
 					<a href="/startup">
-						<div class="d-icon-segment" style="background: #86abff;"><i class="fa-solid fa-building-shield"></i></div>
+						<div class="d-icon-segment"><i class="fa-solid fa-building-shield"></i></div>
 						<div class="d-text-name">start up</div>
 					</a>
 				</div>
 				<div class="d-icon-base d-icon-three">
 					<a href="/legacy">
-						<div class="d-icon-segment" style="background: #e7ff9b;"><i class="fa-brands fa-pagelines"></i></div>
+						<div class="d-icon-segment"><i class="fa-brands fa-pagelines"></i></div>
 						<div class="d-text-name">legacy</div>
 					</a>
 				</div>
 			</div>
 		</section>
+		
+			
+
+		<section class="client-caroselle u-clearfix u-section-2 ">
+			<div class="d-clients-lists">
+				<div class="d-clients-list-inner">
+					<div class="slider demo">
+						<div class="d-feat-client">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+						</div>
+						<div class="d-feat-client">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+						</div>
+						<div class="d-feat-client">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+						</div>
+						<div class="d-feat-client">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+						</div>
+						<div class="d-feat-client">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+						</div>
+						<div class="d-feat-client">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+						</div>
+						<div class="d-feat-client">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+						</div>
+						<div class="d-feat-client">
+							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="d-sub-features u-clearfix u-section-2 u-grey-5">
+			<div class="d-sub-feats-inner">
+				<div class="d-feat-sub feat-startup">
+					<div class="d-sub-feat-image">
+						<img src="/assets/images/legacy-2.jpeg" alt="">
+					</div>
+					<div class="d-sub-feat-text">
+						<h4>For Startups</h4>
+						<p>Selectium Startup Counsel Every great venture starts with a dream. We're here to ensure that you navigate the legal landscape with ease as you transform that dream into reality. From company formation to contracts and compliance, we provide bespoke legal solutions designed to nurture your startup, mitigate risk, and fuel your growth.</p>
+					</div>
+				</div>
+
+				<div class="d-feat-sub feat-startup text-right-part">
+					
+					<div class="d-sub-feat-text left-based">
+						<h4>For Protecting your Ideas</h4>
+						<p>Selectium Innovation Counsel Intellectual property is the cornerstone of innovation. We provide comprehensive IP services to protect and manage your most valuable assets. With a keen understanding of the global innovation ecosystem, we guide creators and innovators in patent, trademark, and copyright matters, ensuring your intellectual property remains secure.</p>
+					</div>
+					<div class="d-sub-feat-image">
+						<img src="/assets/images/inno-protect.jpeg" alt="">
+					</div>
+				</div>
+
+				<div class="d-feat-sub feat-startup">
+					<div class="d-sub-feat-image">
+						<img src="/assets/images/legacy-one.jpeg" alt="">
+					</div>
+					<div class="d-sub-feat-text">
+						<h4>For your Legacy</h4>
+						<p>Selectium Legacy Counsel Planning your legacy is about safeguarding your life's work for the benefit of future generations. Our dedicated team excels in creating personalized strategies that ensure your wealth is managed and transferred according to your wishes. From wills and trusts to complex estate plans, we stand by your side, protecting what matters most.
+</p>
+					</div>
+				</div>
+			</div>
+		</section>
 
 		<!-- Estate Planning -->
-		<section class="u-clearfix u-valign-middle-sm u-valign-middle-xs u-section-7" id="carousel_91bc">
+		<section class="u-clearfix u-valign-middle-sm u-valign-middle-xs u-section-7" id="carousel_91bc" style="display: none;">
 			<div class="u-clearfix u-sheet u-sheet-1">
 				<div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
 					<div class="u-gutter-0 u-layout">
@@ -230,38 +311,7 @@
 			</div>
 		</section>
 
-		<section class="client-caroselle u-clearfix u-section-2 u-grey-5">
-			<div class="d-clients-lists">
-				<div class="d-clients-list-inner">
-					<div class="slider demo">
-						<div class="d-feat-client">
-							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
-						</div>
-						<div class="d-feat-client">
-							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
-						</div>
-						<div class="d-feat-client">
-							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
-						</div>
-						<div class="d-feat-client">
-							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
-						</div>
-						<div class="d-feat-client">
-							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
-						</div>
-						<div class="d-feat-client">
-							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
-						</div>
-						<div class="d-feat-client">
-							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
-						</div>
-						<div class="d-feat-client">
-							<img src="/assets/images/samlecom.png" alt="" style="width: 200px; height: 200px;">
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		
 
 		<!-- tesimonials -->
 		<section class="u-clearfix u-container-align-center u-section-5" id="carousel_a8a0">
@@ -332,6 +382,17 @@
 						</div>
 					</div>
 				</div>
+			</div>
+		</section>
+
+		<!-- services -->
+		<section class="u-clearfix u-container-align-center u-palette-4-base u-section-6" id="carousel_35e5">
+			<div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+			<!-- <h5 class="u-align-center u-text u-text-default u-text-1"> Add more speed to your website</h5> -->
+			<h2 class="services-info u-align-center u-custom-font u-font-raleway u-text u-text-2" style="margin-bottom: 60px;"> Selectium Startup Counsel:<br /> Protecting Your Venture. Guarding Your Innovation. Preserving Your Legacy. </h2>
+			<!-- <p class="u-align-center u-text u-text-default u-text-3">Sample text. Click to select the Text Element.</p> -->
+			<div class="d-down-notes">Experience the <i>Selectium</i> Difference</div>
+			<a href="https://nicepage.com/website-builder" class="d-footer-banner-link u-align-center u-border-4 u-border-white u-btn u-btn-round u-button-style u-custom-font u-font-montserrat u-none u-radius-40 u-btn-1" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">Contact us today.</a>
 			</div>
 		</section>
 
